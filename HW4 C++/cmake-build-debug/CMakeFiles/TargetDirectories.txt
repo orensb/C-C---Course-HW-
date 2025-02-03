@@ -1,0 +1,3 @@
+C:/Users/oren_/Desktop/C Programing/HW4 C++/cmake-build-debug/CMakeFiles/HW4.dir
+C:/Users/oren_/Desktop/C Programing/HW4 C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oren_/Desktop/C Programing/HW4 C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

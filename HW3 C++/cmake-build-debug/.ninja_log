@@ -1,0 +1,8 @@
+# ninja log v5
+20	811	7304730631366803	CMakeFiles/HW3_C__.dir/StackNode.cpp.obj	964d3e66284cb76a
+3	381	7305811806173540	CMakeFiles/HW3_C__.dir/main.cpp.obj	c3a746a65d5e5f75
+1	128	7334281333463356	build.ninja	529c1c361c535cdd
+18	429	7305811806670392	CMakeFiles/HW3_C__.dir/Menu.cpp.obj	9a09cc1f43a1bce8
+429	516	7305811807508548	HW3_C__.exe	c0647f250b93c35e
+11	341	7305801069607813	CMakeFiles/HW3_C__.dir/Stack.cpp.obj	6b312f95deec46e2
+10	419	7305811806558376	CMakeFiles/HW3_C__.dir/MyQueue.cpp.obj	da73750a21ba8df5
